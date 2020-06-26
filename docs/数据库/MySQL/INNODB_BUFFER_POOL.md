@@ -1,0 +1,1 @@
+![innodb_buffer_pool](img/innodb_buffer_pool.png)
